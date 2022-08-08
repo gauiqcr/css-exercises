@@ -1,5 +1,5 @@
 .odd {
-    color: rgb(231, 125, 173);
+    background-color: rgb(231, 125, 173);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #second {
@@ -12,5 +12,5 @@
 #forth {
     font-size:24px;
     font-weight: bold;
-    color: rgb(71, 215, 145);
+    background-color: rgb(71, 215, 145);
 }
